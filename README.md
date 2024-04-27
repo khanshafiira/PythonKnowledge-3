@@ -84,3 +84,18 @@ Columns is an attribute that allows you to retrieve a DataFrame's column labels.
 Data manipulation refers to the process of transforming and restructuring data to make it suitable for analysis or visualization. Pivot tables are a common technique used in data manipulation, especially for summarizing and aggregating data in a structured format.
 
 #### Import, store, and export data
+<img src="https://github.com/khanshafiira/PythonKnowledge-3/assets/166186201/ea7d7c20-51d5-4c19-a19e-038de247c9c1" width="220" height="150">
+
+#### Clean Data
+Data cleaning in Python refers to the process of identifying and correcting errors, inconsistencies, and inaccuracies in a dataset to improve its quality and reliability for analysis or other purposes. It involves various tasks such as handling missing values, removing duplicates, correcting inaccuracies, and standardizing formats.
+
+#### Organize Data
+1. Slicing
+2. Sorting
+3. Filtering
+   
+#### Aggregate Data
+1. Pivoting
+2. Grouping
+3. Joining/merging
+4. summarizing
